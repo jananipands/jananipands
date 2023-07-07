@@ -1,8 +1,8 @@
-# 💫 About Me:
-Hi, I'm Janani, a 4th-year Computer Science student and an aspiring Full-Stack Developer. Through my coursework and internships, I have gained experience in front-end and back-end development. I am excited about leveraging my skills to create innovative solutions and contribute to the ever-evolving tech industry. Seeking New Grad opportunities to kickstart my career in Spring 2024.
+# Hello! 👋:
+I'm Janani, a 4th-year student majoring Computer Science and an aspiring Full-Stack Developer. I enjoy crafting web and mobile applications, and hope to experiment with more frameworks in the future. Currently, I am building an e-commerce application using Angular, Typescript, and Firebase. I am seeking New Grad roles in Software Engineering to kickstart my career in 2024!
 
 
-## 🌐 Socials:
+## 🌐 Connect with me on LinkedIn!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/janani-p) 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@ Hi, I'm Janani, a 4th-year Computer Science student and an aspiring Full-Stack D
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jananipands&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jananipands&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+# #️⃣ Visitor Count:
 [![](https://visitcount.itsvg.in/api?id=jananipands&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
