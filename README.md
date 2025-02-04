@@ -1,5 +1,4 @@
 # Hello! 👋:
-I'm Janani, a 4th-year student majoring Computer Science and an aspiring Full-Stack Developer. I enjoy crafting web and mobile applications, and hope to experiment with more frameworks in the future. Currently, I am pursuing a certification in JavaScript and hope to complete it soon. I am seeking New Grad roles in Software Engineering to kickstart my career in 2024!
 
 
 ## 🌐 Connect with me on LinkedIn!
